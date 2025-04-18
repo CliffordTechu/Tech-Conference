@@ -12,6 +12,22 @@ header, footer {
   padding: 2rem;
   text-align: center;
 }
+.hero-header {
+  background-image: url('images/tech-conference.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 6rem 2rem;
+  color: white;
+  text-align: center;
+}
+
+.hero-overlay {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
 section {
   padding: 2rem;
 }
