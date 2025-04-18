@@ -12,7 +12,8 @@ header, footer {
   padding: 2rem;
   text-align: center;
 }
-.carousel {
+
+hero-header {
   background-image: url('images/tech-conference.jpg');
   background-size: cover;
   background-position: center;
@@ -22,7 +23,7 @@ header, footer {
   text-align: center;
 }
 
-.carousel-overlay {
+.hero-overlay {
   background: rgba(0, 0, 0, 0.5);
   padding: 2rem;
   border-radius: 1rem;
